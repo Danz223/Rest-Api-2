@@ -51,6 +51,7 @@
     "mongoose": "^5.13.5",
     "ms": "^2.1.3",
     "needle": "^2.6.0",
+    "node-tiklydown": "*",
     "nekopoi-scraper": "^2.7.1",
     "node-cron": "^3.0.2",
     "node-fetch": "^2.6.1",
